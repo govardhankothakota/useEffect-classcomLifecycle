@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+.counter{
+  border: 2px solid gray;
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+}
